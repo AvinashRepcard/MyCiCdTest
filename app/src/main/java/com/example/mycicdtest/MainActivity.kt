@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
             MyCiCdTestTheme {
                 Scaffold(modifier = Modifier.fillMaxSize().background(Color.Red)) { innerPadding ->
                     Greeting(
-                        name = "Avinash",
+                        name = "Avinash Nag",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
